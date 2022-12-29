@@ -2,7 +2,7 @@
 
 * [🌐 What is Freeloaderz?](README.md)
 * [⚖ Constitution](constitution.md)
-* [📄 Whitepaper](whitepaper.md)
+* [📄 Handbook](handbook.md)
 * [🏋 Load Balancers](load-balancers.md)
 * [✨ Smartclaimz](smartclaimz.md)
 * [🏹 Load Warrior NFTs](load-warrior-nfts.md)

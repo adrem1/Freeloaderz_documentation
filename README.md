@@ -1,6 +1,8 @@
-# 🌐 What is Freeloaderz?
+# 🌐 Welcome to Freeloaderz
 
-FreeLoaderz is a coalition of Cardano stake pool operators (SPOs), developers, and community members offering their talents and services to the Cardano community in an effort to improve the everyday user experience, promote decentralisation, and maintain the security of the network.
+Freeloaderz is a coalition of Cardano stake pool operators (SPOs), developers, and community members offering their talents and services to the Cardano community in an effort to improve the everyday user experience, promote decentralisation, and maintain the security of the network.
+
+<figure><img src=".gitbook/assets/FreeLoaderz_Square.png" alt=""><figcaption></figcaption></figure>
 
 Freeloaderz believe that a vibrant, decentralised base of single stake pool operators is integral to Cardano’s success. Therefore a primary mission of the Freeloaderz DAO is to support independent stake pool operators.
 

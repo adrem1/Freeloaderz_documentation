@@ -1,6 +1,6 @@
 ---
 description: A Cardano NFT project by Freeloaderz.
-cover: .gitbook/assets/lw_banner.png
+cover: ../.gitbook/assets/lw_banner.png
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ See the collection here: [https://www.jpg.store/collection/freeloaderznft-series
 
 Series 1 holders can now benefit from discounted rates on SmartClaimz!
 
-<figure><img src=".gitbook/assets/QmPaRuwENZFW3FxiDL9mJoYyNPT7zzK8Sb7tsv2yTzqizk.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QmPaRuwENZFW3FxiDL9mJoYyNPT7zzK8Sb7tsv2yTzqizk.webp" alt=""><figcaption></figcaption></figure>
 
 ## LoadWarrior Series 2
 
@@ -30,4 +30,4 @@ See the collection here: [https://www.jpg.store/collection/freeloaderzloadwarrio
 
 Series 2 holders can now benefit from discounted rates on SmartClaimz and stake their NFTs on CardanoLands!
 
-<figure><img src=".gitbook/assets/QmXTPvnmtrYYZKRLAV6wpUpKhVcV2cYaWBNhEW1rYSonM5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/QmXTPvnmtrYYZKRLAV6wpUpKhVcV2cYaWBNhEW1rYSonM5.png" alt=""><figcaption></figcaption></figure>

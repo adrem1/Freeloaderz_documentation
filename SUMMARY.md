@@ -5,5 +5,5 @@
 * [📄 Handbook](handbook.md)
 * [🏋 Load Balancers](load-balancers.md)
 * [🌮 SmartClaimz](smartclaimz.md)
-* [🏹 Load Warrior NFTs](load-warrior-nfts.md)
+* [🥷 LoadWarrior NFTs](load-warrior-nfts.md)
 * [💾 Other Services](other-services.md)

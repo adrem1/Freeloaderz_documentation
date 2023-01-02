@@ -49,9 +49,9 @@ Users of CardanoLands can also choose to vote for Freeloaderz LoadWarriors as th
 {% hint style="success" %}
 Example, based on HEXO-ADA pair exchange rate and Mining Power of NFTs at the time of writing:
 
-**10 NFTs (25 ADA ea) = 28.4 HEXO per day = 0.039 ADA per day**
+**10 NFTs (25 ADA ea) = 26.2 HEXO per day = 0.040 ADA per day** (Updated 02.01.2023)
 
-This approximately equates to 14 ADA per year on a 250 ADA investment (approx 5.6% APY)
+This approximately equates to 14 ADA per year on a 250 ADA investment (approx 5.8% APY)
 {% endhint %}
 
 {% hint style="warning" %}

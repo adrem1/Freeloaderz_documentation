@@ -1,9 +1,8 @@
 ---
 description: >-
-  Freeloaderz will continue to bring value to Cardano as we grow together. Here
-  we'll add new services we provide, as they become available to the community.
+  Freeloaderz has seen many great contributions by a number of SPOs. Find their pools below. 
 ---
 
-# 💾 Other Services
+# 💾 Links to our Friends
 
-WIP
+[ENVY]]https://www.envystakepool.com/)

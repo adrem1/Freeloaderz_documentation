@@ -6,6 +6,8 @@ description: >-
 
 # ⚖ Constitution
 
+{% hint style="info" %} Great many thanks to Sean [ENVY] for redacting all this comprehensive content.{% endhint %}
+
 ## Preamble
 
 As users of the Cardano network, the members of FreeLoaderz come together to form this organization that will serve our community. Our founders originate from around the world, with different identities and experiences. We are brought together in our hope that decentralized technologies will allow us to cooperate in a renewed spirit of honesty and equality.

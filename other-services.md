@@ -3,6 +3,6 @@ description: >-
   Freeloaderz has seen many great contributions by a number of SPOs. Find their pools below. 
 ---
 
-# 💾 Links to our Friends
+# 💾 Links
 
-[ENVY]]https://www.envystakepool.com/)
+[[ENVY]](https://www.envystakepool.com/)

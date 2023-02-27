@@ -6,7 +6,7 @@ description: >-
 
 # ⚖ Constitution
 
-{% hint style="info" %} Great many thanks to Sean [ENVY] for redacting all this comprehensive content.{% endhint %}
+{% hint style="info" %} Great many thanks to Sean [[ENVY]](https://www.envystakepool.com/) for redacting all this comprehensive content.{% endhint %}
 
 ## Preamble
 

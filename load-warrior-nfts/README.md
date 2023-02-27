@@ -10,7 +10,7 @@ coverY: 0
 
 Series 1 has minted out: all 250 NFTs are out in the Community! Thank you to all our patient followers and fellow Cardano Warriors!
 
-See the collection here: [https://www.jpg.store/collection/freeloaderznft-series1](https://www.jpg.store/collection/freeloaderznft-series1)
+See the collection here: [jpg.store](https://www.jpg.store/collection/freeloaderznft-series1)
 
 ### Utility
 

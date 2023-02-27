@@ -7,4 +7,4 @@
 * [🌮 SmartClaimz](smartclaimz.md)
 * [🥷 LoadWarrior NFTs](load-warrior-nfts/README.md)
   * [🥽 NFT Utility Explained](load-warrior-nfts/nft-utility-explained.md)
-* [💾 Links](other-services.md)
+* [💾 Links](links.md)

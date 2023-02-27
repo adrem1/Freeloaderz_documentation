@@ -1,8 +1,10 @@
 # 📄 Handbook
 
+{% hint style="info" %} Great many thanks to Sean [ENVY] for redacting all this comprehensive content.{% endhint %}
+
 ## Purpose of Handbook
 
-The purpose of this handbook is to inform members of FreeLoaderz and the Cardano Community of the rights and responsibilities of participating in FreeLoaderz. It is intended to be a complement to the FreeLoaderz Constitution which can be found on Github at: https://github.com/FreeLoaderz/constitution/blob/master/FreeLoaderz-Constitution-v01.md
+The purpose of this handbook is to inform members of FreeLoaderz and the Cardano Community of the rights and responsibilities of participating in FreeLoaderz. It is intended to be a complement to the FreeLoaderz Constitution which can be found in the previous section or [here](https://github.com/FreeLoaderz/constitution/blob/master/FreeLoaderz-Constitution-v01.md)
 
 ## Mission Statement <a href="#_xd1m5yejawmr" id="_xd1m5yejawmr"></a>
 

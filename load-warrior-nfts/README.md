@@ -22,9 +22,9 @@ Series 1 holders can now benefit from discounted rates on SmartClaimz!
 
 Series 2 is minting at the time of writing: a collection of 1250 NFTs with 2 utilities attached (see below)
 
-Get yours here: [https://www.freeloaderz.io/drop2](https://www.freeloaderz.io/drop2)
+Get yours here: [cardano-tools](https://cardano-tools.io/drop/loadwarrior2-216373)
 
-See the collection here: [https://www.jpg.store/collection/freeloaderzloadwarriorseries2](https://www.jpg.store/collection/freeloaderzloadwarriorseries2)
+See the collection here: [jpg.store](https://www.jpg.store/collection/freeloaderzloadwarriorseries2)
 
 ### Utility
 
